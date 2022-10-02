@@ -1,7 +1,12 @@
 body {
     font-family: 'Open Sans', sans-serif;
+    text-align: center;
 }
 
+#hero{
+    width: 592px ;
+    margin: auto;
+}
 h1 span {
     font-weight: bold;
 }
@@ -20,4 +25,6 @@ span, a{
 
 p{
     color: #7D7987;
+    font-size: 14px;
+    line-height: 28px;
 }
